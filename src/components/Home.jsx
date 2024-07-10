@@ -35,7 +35,6 @@ const Home = () => {
                     m='auto'>Services</Heading>
                 <Stack
                     h={'full'}
-                    p={"4"}
                     alignItems={'center'}
                     direction={['column', 'row']}>
                     <Image
@@ -45,7 +44,7 @@ const Home = () => {
                     <Text
                         letterSpacing={'widset'}
                         lineHeight={"190%"}
-                        p={["4", "16"]}
+                        
                         textAlign={"center"}>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsa illo aliquam obcaecati, sapiente in esse libero vel quidem assumenda culpa fugiat magni, dolor iusto sed? Dolor consequatur, recusandae aperiam qui corrupti eos esse praesentium consequuntur quod quidem ratione nemo tenetur nostrum ducimus vel quas a? Mollitia, magni possimus. Ipsam esse, illo laborum minima culpa deleniti reprehenderit quo officia ex? Veritatis, doloribus aperiam hic nesciunt ipsa illum, nobis dolor laborum ea aut fuga accusamus velit esse repudiandae, nulla exercitationem natus optio commodi omnis? Dolores rem accusantium non nisi voluptate incidunt veritatis fuga nesciunt ipsum, quia maiores, accusamus minus ducimus maxime aliquam!</Text>
                 </Stack>
             </Container>
