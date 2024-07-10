@@ -24,7 +24,7 @@ const Home = () => {
         <Box>
             <MyCarousel />
             <Container
-                minH={'100vh'}
+                minH={'80vh'}
                 maxW={'container.xl'}
                 p={'16'}>
                 <Heading
